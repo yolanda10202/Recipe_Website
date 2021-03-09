@@ -19,6 +19,14 @@ Click [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/style.css) 
 
 The styling for the webpage is designed using Figma. Original design [here](https://www.figma.com/file/2Z2NLDq0zWmKXLYW7igCJs/Cookbook-Website?node-id=0%3A1). 
 
+### RecipeWebsiteDemo.mp4
+See the video [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsiteDemo.mp4)
+
+This is a video demo of what my mainpage should look like when one opens it using any browswer. In the demo, I used Microsoft Edge. Other browsers should be compatible as well. From the video, one can see how every element (buttons, links, and navigation) on the page looks like and how they react when the mouse hovers above them. 
+
+### RecipeWebsite.pdf
+See the pdf [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsite.pdf)
+
 ### photos.zip
 Unzip the file to access the photos that will be displayed onto the mainpage.
 
