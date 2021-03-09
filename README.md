@@ -23,7 +23,7 @@ The styling for the webpage is designed using Figma. Original design [here](http
 Unzip the file to access the photos that will be displayed onto the mainpage.
 
 ### Oswald.zip and Permanent_Marker.zip
-Unzip the files to access the font family used in style.css.
+Unzip the files to access the font family used in style.css. All fonts downloaded from [Google Fonts](https://fonts.google.com/).
 
 ## Goals
 Growing up, food has always been something important in my life. I enjoy eating them, cooking them, and sharing them with my friends and family. Cooking for different people throughout the years, I have been asked to share my recipe with them. At first, I would email them a scan of my handwritten recipe, but many of them told me it's a bit hard to imagine the cooking process with words only. As a result, I tried emailing my reciping while including some pictures I took during the process. That didn't turn out too well because I'll need to keep track of several recipes at different places at the same time.
