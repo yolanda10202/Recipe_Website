@@ -1,5 +1,5 @@
 # RecipeWebsite
-Frontend Web Development Project Using HTML/CSS
+Frontend Web Development Project Using HTML/CSS.
 
 ## Description
 Below are the files for my Recipe Website. 
