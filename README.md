@@ -5,12 +5,14 @@ Frontend Web Development Project Using HTML/CSS
 There are two main files: mainpage.html and style.css. 
 
 ### mainpage.html
+Click [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/mainpage.html) to see the code. 
 This HTML file contains the basic structure of the website. It includes:
 * A header
 * A navigation bar
 * An article body
 
 ### style.css
+Click [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/style.css) to see the code.
 The styling for the webpage is designed using Figma. Original design [here](https://www.figma.com/file/2Z2NLDq0zWmKXLYW7igCJs/Cookbook-Website?node-id=0%3A1). 
 
 ## Goals
