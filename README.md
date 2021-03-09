@@ -7,25 +7,31 @@ Below are the files for my Recipe Website.
 ### mainpage.html
 Click [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/mainpage.html) to see the code. 
 
-The mainpage serves as home page of my recipe website. 
-
-This HTML file contains the basic structure of the website. It includes:
-* A header
-* A navigation bar
-* An article body
+This HTML file contains the basic structure of the website. It serves as the home page for my recipe website. It includes:
+* A header - contains link to style.css file and webpage name in the browser tab
+* A navigation bar - contains links to each section of the webpage
+* An article body - contains the two sections (Introduction and Recipe Sections)
 
 ### style.css
 Click [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/style.css) to see the code.
 
-The styling for the webpage is designed using Figma. Original design [here](https://www.figma.com/file/2Z2NLDq0zWmKXLYW7igCJs/Cookbook-Website?node-id=0%3A1). 
+The webpage is originally designed using Figma. Original design [here](https://www.figma.com/file/2Z2NLDq0zWmKXLYW7igCJs/Cookbook-Website?node-id=0%3A1). 
 
-### RecipeWebsiteDemo.mp4
-See the video [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsiteDemo.mp4)
-
-This is a video demo of what my mainpage should look like when one opens it using any browswer. In the demo, I used Microsoft Edge. Other browsers should be compatible as well. From the video, one can see how every element (buttons, links, and navigation) on the page looks like and how they react when the mouse hovers above them. 
+This CSS file contains all code for formating the elements in mainpage.html. It includes:
+* Fixed navigation bar 
+* Change of style when hovering an element
+* Layout of the images using grid
+* Text fonts
 
 ### RecipeWebsite.pdf
-See the pdf [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsite.pdf)
+See the pdf [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsite.pdf).
+
+This pdf gives a more detailed explanation of my website. It includes screenshots of my webpage as well as different functions such as link and hover. 
+
+### RecipeWebsiteDemo.mp4
+Download to see the video [here](https://github.com/yolanda10202/RecipeWebsite/blob/main/RecipeWebsiteDemo.mp4).
+
+This is a video demo of what my mainpage should look like when one opens it using any browswer. In the demo, I used Microsoft Edge. Other browsers should be compatible as well. From the video, one can see how every element (buttons, links, and navigation) on the page looks like and how they react in real time when the mouse hovers above them. 
 
 ### photos.zip
 Unzip the file to access the photos that will be displayed onto the mainpage.
